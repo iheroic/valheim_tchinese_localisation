@@ -1521,7 +1521,7 @@ Context,English,Chinese_Traditional
 "skill_blocking","Blocking","格擋"
 "skill_blocking_description","Damage absorbed when blocking with a weapon or shield.","用武器或盾牌格擋住的傷害"
 "skill_bows","Bows","弓"
-"skill_bows_description","Damage with bows.","被劍射傷"
+"skill_bows_description","Damage with bows.","被箭射傷"
 "skill_clubs","Clubs","棍"
 "skill_clubs_description","Damage with clubs.","棍傷"
 "skill_cooking","Cooking","烹飪"
